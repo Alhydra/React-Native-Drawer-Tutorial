@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "React Native Drawer Tutorial",
+    "slug": "react-native-drawer-tutorial",
+    "privacy": "public",
+    "sdkVersion": "35.0.0",
+    "description":"Hello everyone, and welcome into my new article React Native Drawer Tutorial.In this article we are going to explore a a piece of the React Native Navigation ecosystem, The Drawer Navigation. Check the full article here https://reactnativemaster.com/react-native-drawer-tutorial/",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
